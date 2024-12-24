@@ -200,3 +200,54 @@ footer {
         align-items: center;
     }
 }
+/* General Styling */
+body {
+    background-color: #001f3f; /* Dark Blue */
+    color: #f1f1f1; /* Light text for contrast */
+}
+
+/* Header */
+header {
+    background-color: #003366; /* Slightly Lighter Blue */
+    color: #f1f1f1;
+}
+
+header img.profile-img {
+    border: 3px solid #007bff; /* Bright Blue Border */
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.8);
+}
+
+/* Links */
+.links a {
+    background-color: #004080; /* Medium Blue */
+    color: #f1f1f1;
+}
+
+.links a:hover {
+    background-color: #0056b3; /* Brighter Blue on Hover */
+}
+
+/* Section Backgrounds */
+section {
+    background-color: #00264d; /* Darker Blue */
+    border-color: #004080; /* Border with Medium Blue */
+}
+
+/* Section Headings */
+section h2 {
+    color: #f1f1f1; /* Light Text */
+    border-bottom: 2px solid #0056b3; /* Brighter Blue Border */
+}
+
+/* Footer */
+footer {
+    background-color: #003366; /* Lighter Blue */
+    color: #f1f1f1;
+}
+
+/* Compact Layout for Small Screens */
+@media screen and (max-width: 768px) {
+    body {
+        background-color: #001a33; /* Slightly Darker Blue for Small Screens */
+    }
+}
