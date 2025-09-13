@@ -1,0 +1,664 @@
+Mudassir Fayaz
+ Add verification badge
+🏅 HEC High Achiever 2024 |🏅 Prime Minister Award for Professional Excellence | 🎖️ Recipient of Souvenir from Army Chief |🥇3x int'l Hackathons Winner & 25x Participant | SL Mentor @ Stanford CiP | AI/ML Engineer | NLP
+
+
+
+AboutAbout
+👋 Hello! I’m Mudassir Fayaz — an aspiring PhD candidate in Computer Science with a profound passion for Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP). My academic and professional journey blends innovative research, hands-on project leadership, and a deep-rooted enthusiasm for solving complex problems at the intersection of technology and human cognition.
+
+
+📚 Current Roles & Interests:
+University Lecturer: Teaching Computer Networks, Software Engineering, and Programming Fundamentals, sharing knowledge with aspiring technologists in my home university --> Khushal Khan Khattak University Karak (KKKUK).
+PhD Aspirant: Actively seeking research collaborations and opportunities in AI and ML, aiming to contribute to impactful projects and explore innovative solutions.
+
+🎓 Academic Background:
+🎓 BS in Computer Science from Khushal Khan Khattak University Karak, graduating as an 🏅 HEC Higher Achievers Awardee — Recognized among 52 nationwide achievers for academic excellence. My foundation in mathematics and computer science propels my endeavors into advanced AI topics.
+
+💼 Professional Highlights:
+AI Engineer at AsasTech Saudi Arabia 🌍
+Explored cutting-edge research on Large Language Models (LLMs) Fine-tuning and RAG, addressing challenges in sparse matrix operations, memory efficiency, and domain specific modification of LLMs.
+
+Hackathon Leader 🏆
+My journey in academia is complemented by active participation in 25+ international hackathons, where I led global teams to win accolades such as:
+WebGPU Hackathon 🥇 First Place Victory for building visual solutions with cutting-edge technology.
+Clarifai LLaMA 2 Hackathon 🏆 for innovative health-focused AI applications.
+
+🔬 Research Focus:
+I am passionate about advancing self-supervised learning, especially in creating intelligent agents that understand the visual world beyond mere recognition. My work bridges computer vision, NLP, and psychology, striving for minimal human supervision while ensuring robust, scalable AI systems.
+
+✨ Let's collaborate to shape the future of AI and make technology more intelligent and impactful! 🚀
+📩 Email: mudassir.fayaz@kkkuk.edu.pk
+📞 Phone: +92 (331)-8223581
+🌐 LinkedIn: linkedin.com/in/mudassirfayaz
+
+
+Top skills
+Top skills
+Machine Learning • Communication • Team Leadership • Mentorship • Natural Language Processing (NLP)
+ExperienceExperience
+
+Khushal Khan Khattak University Karak  logo
+Jr. Lecturer
+Jr. Lecturer
+Khushal Khan Khattak University Karak · Full-timeKhushal Khan Khattak University Karak · Full-time
+Oct 2024 - Present · 1 yrOct 2024 to Present · 1 yr
+Karak, Khyber Pakhtunkhwa, Pakistan · On-siteKarak, Khyber Pakhtunkhwa, Pakistan · On-site
+As a Lecturer in the Computer Science department, I am dedicated to fostering academic excellence and cultivating technical expertise among students. My responsibilities include delivering engaging lectures, designing comprehensive course curricula, and mentoring students to help them achieve their academic and professional goals.
+
+Key Contributions:
+
+Teaching Diverse Courses:
+Software Engineering: Guiding students through software development methodologies, requirement analysis, design principles, and project management.
+Introduction to Computer Programming: Teaching foundational concepts like control structures, loops, and conditional statements, tailored for first-year students.
+Computer Networks: Covering topics such as network fundamentals, IP addressing, DNS, internet vs. intranet, firewalls, VPNs, and network security.
+
+Student Mentorship and Development:
+Actively mentor students in their academic projects and career planning.
+Encourage critical thinking and creativity to address complex computing problems.
+
+In this role, I aim to inspire the next generation of computer scientists by combining theoretical concepts with practical applications, fostering a learning environment that emphasizes innovation, critical thinking, and ethical computing practices.As a Lecturer in the Computer Science department, I am dedicated to fostering academic excellence and cultivating technical expertise among students. My responsibilities include delivering engaging lectures, designing comprehensive course curricula, and mentoring students to help them achieve their academic and professional goals. Key Contributions: Teaching Diverse Courses: Software Engineering: Guiding students through software development methodologies, requirement analysis, design principles, and project management. Introduction to Computer Programming: Teaching foundational concepts like control structures, loops, and conditional statements, tailored for first-year students. Computer Networks: Covering topics such as network fundamentals, IP addressing, DNS, internet vs. intranet, firewalls, VPNs, and network security. Student Mentorship and Development: Actively mentor students in their academic projects and career planning. Encourage critical thinking and creativity to address complex computing problems. In this role, I aim to inspire the next generation of computer scientists by combining theoretical concepts with practical applications, fostering a learning environment that emphasizes innovation, critical thinking, and ethical computing practices.…see more
+Higher Education Teaching and Communication
+AsasTech logo
+Machine Learning Engineer
+Machine Learning Engineer
+AsasTech · Part-timeAsasTech · Part-time
+May 2024 - Present · 1 yr 5 mosMay 2024 to Present · 1 yr 5 mos
+Saudi Arabia · RemoteSaudi Arabia · Remote
+As an AI and Machine Learning Engineer at AsasTech, I contributed to cutting-edge research and the development of innovative AI-driven solutions. This role required a deep understanding of machine learning algorithms, advanced computational techniques, and the ability to apply them to solve real-world challenges effectively.
+
+Key Contributions:
+
+Large Language Models (LLMs):
+
+Explored state-of-the-art LLMs to enhance natural language understanding and generation capabilities.
+Conducted research to improve model efficiency, including sparse matrix operations, workload balancing, and memory optimization for scalable deployment.
+
+AI-Powered Solutions:
+Designed and deployed AI models to automate and enhance workflows across various domains, ensuring high accuracy and performance.
+Collaborated with cross-functional teams to integrate AI capabilities seamlessly into client products.
+Technical Innovation and Problem Solving:
+
+This role allowed me to leverage my expertise in artificial intelligence and machine learning to contribute to AsasTech’s mission of delivering innovative, data-driven solutions, driving business growth and transforming the way clients engage with technology.As an AI and Machine Learning Engineer at AsasTech, I contributed to cutting-edge research and the development of innovative AI-driven solutions. This role required a deep understanding of machine learning algorithms, advanced computational techniques, and the ability to apply them to solve real-world challenges effectively. Key Contributions: Large Language Models (LLMs): Explored state-of-the-art LLMs to enhance natural language understanding and generation capabilities. Conducted research to improve model efficiency, including sparse matrix operations, workload balancing, and memory optimization for scalable deployment. AI-Powered Solutions: Designed and deployed AI models to automate and enhance workflows across various domains, ensuring high accuracy and performance. Collaborated with cross-functional teams to integrate AI capabilities seamlessly into client products. Technical Innovation and Problem Solving: This role allowed me to leverage my expertise in artificial intelligence and machine learning to contribute to AsasTech’s mission of delivering innovative, data-driven solutions, driving business growth and transforming the way clients engage with technology.…see more
+Natural Language Processing (NLP), Large Language Models (LLM) and +2 skills
+Stanford University: Code In Place  logo
+Section Leader Mentor
+Section Leader Mentor
+Stanford University: Code In Place · SeasonalStanford University: Code In Place · Seasonal
+May 2024 - Jun 2024 · 2 mosMay 2024 to Jun 2024 · 2 mos
+RemoteRemote
+As a Section Leader Mentor for Stanford University’s prestigious Code in Place program, I played a key role in fostering the growth of aspiring programmers worldwide. This role combined mentorship, teaching, and community-building to create a collaborative and impactful learning experience.
+
+Key Contributions:
+
+Teaching and Mentorship:
+
+Guided a diverse cohort of students through the fundamentals of Python programming, problem-solving, and computational thinking.
+Conducted interactive group sessions, providing real-time feedback and encouragement to promote confidence and mastery of programming concepts.
+Curriculum Delivery:
+
+Delivered tailored lessons based on Stanford’s CS106A curriculum, emphasizing hands-on coding exercises and real-world applications.
+Facilitated discussions on core programming concepts, including control structures, data types, and algorithm design.
+Community Building:
+
+Fostered an inclusive and supportive learning environment, enabling students from varying backgrounds to thrive in a collaborative setting.
+Actively participated in program forums and discussions to address student questions and enhance engagement.
+Program Support and Development:
+
+Provided feedback to the program organizers on curriculum improvements and teaching methodologies.
+Acted as a liaison between students and the program, ensuring a seamless and enriching experience for all participants.
+This role underscored my passion for education, programming, and empowering learners by bridging the gap between foundational programming concepts and practical application. It was a fulfilling experience to contribute to one of Stanford’s globally recognized initiatives aimed at democratizing coding education.As a Section Leader Mentor for Stanford University’s prestigious Code in Place program, I played a key role in fostering the growth of aspiring programmers worldwide. This role combined mentorship, teaching, and community-building to create a collaborative and impactful learning experience. Key Contributions: Teaching and Mentorship: Guided a diverse cohort of students through the fundamentals of Python programming, problem-solving, and computational thinking. Conducted interactive group sessions, providing real-time feedback and encouragement to promote confidence and mastery of programming concepts. Curriculum Delivery: Delivered tailored lessons based on Stanford’s CS106A curriculum, emphasizing hands-on coding exercises and real-world applications. Facilitated discussions on core programming concepts, including control structures, data types, and algorithm design. Community Building: Fostered an inclusive and supportive learning environment, enabling students from varying backgrounds to thrive in a collaborative setting. Actively participated in program forums and discussions to address student questions and enhance engagement. Program Support and Development: Provided feedback to the program organizers on curriculum improvements and teaching methodologies. Acted as a liaison between students and the program, ensuring a seamless and enriching experience for all participants. This role underscored my passion for education, programming, and empowering learners by bridging the gap between foundational programming concepts and practical application. It was a fulfilling experience to contribute to one of Stanford’s globally recognized initiatives aimed at democratizing coding education.…see more
+FastHire Manpower Solution logo
+Machine Learning Engineer
+Machine Learning Engineer
+Mentorness · InternshipMentorness · Internship
+Jan 2024 - Feb 2024 · 2 mosJan 2024 to Feb 2024 · 2 mos
+India · RemoteIndia · Remote
+ helped me get this job
+LinkedIn helped me get this job
+MobiVone logo
+Junior Web Developer
+Junior Web Developer
+MobiVone · Part-timeMobiVone · Part-time
+May 2022 - Nov 2023 · 1 yr 7 mosMay 2022 to Nov 2023 · 1 yr 7 mos
+Karak, Khyber Pakhtunkhwa, Pakistan · On-siteKarak, Khyber Pakhtunkhwa, Pakistan · On-site
+As a Junior Web Developer at MobiVone, I contributed to the design, development, and maintenance of responsive and user-friendly web applications. My responsibilities included coding, debugging, and 
+
+
+
+Khushal khan Khattak University Karak 
+Khushal khan Khattak University Karak 
+Bachelor's degree, Computer ScienceBachelor's degree, Computer Science
+Aug 2020 - Aug 2024Aug 2020 - Aug 2024
+Grade: 3.6Grade: 3.6
+Activities and societies: 1) The Blood Heros Campaign
+2) Khushal Literal SocietyActivities and societies: 1) The Blood Heros Campaign 2) Khushal Literal Society
+Adaptation and problem solving, Social awareness and responsibility
+
+
+Licenses & certifications
+GenAI.Works logo
+LeadWithAIAgents Hackathon 2025: Participant Certificate
+LeadWithAIAgents Hackathon 2025: Participant Certificate
+GenAI.WorksGenAI.Works
+Issued Jul 2025Issued Jul 2025
+Credential ID 5Epn6zWoQdWU7JJOEHguQwCredential ID 5Epn6zWoQdWU7JJOEHguQw
+Show credential
+Skills: Agents · Multiple Agents
+Skills: Agents · Multiple Agents
+
+GENAIHackathon.pdfGENAIHackathon.pdf
+World Education Services logo
+Verified International Academic Qualifications
+Verified International Academic Qualifications
+World Education ServicesWorld Education Services
+Issued Mar 2025Issued Mar 2025
+Credential ID https://badges.wes.org/Evidence?i=d3540fed-37ef-4403-97de-53e0cbe14ee3&type=usCredential ID https://badges.wes.org/Evidence?i=d3540fed-37ef-4403-97de-53e0cbe14ee3&type=us
+Show credential
+NASA Space Apps Challenge Zurich CH logo
+2024 NASA International Space Apps Challenge
+2024 NASA International Space Apps Challenge
+NASA Space Apps Challenge Zurich CHNASA Space Apps Challenge Zurich CH
+Issued Oct 2024Issued Oct 2024
+
+NASA Certificate.pdfNASA Certificate.pdf
+Awarded for successfully developing and submitting the project "Exoplanet Exploration Quiz for Students" as part of the 2024 NASA International Space Apps Challenge. Collaborated with an international team to create an AI-powered, interactive educational platform designed to make exoplanet science accessible and engaging for students of all ages. The project aimed to inspire curiosity about exoplanetary science and foster interest in STEM fields, with a special focus on education.Awarded for successfully developing and submitting the project "Exoplanet Exploration Quiz for Students" as part of the 2024 NASA International Space Apps Challenge. Collaborated with an international team to create an AI-powered, interactive educational platform designed to make exoplanet science accessible and engaging for students of all ages. The project aimed to inspire curiosity about exoplanetary science and foster interest in STEM fields, with a special focus on education.
+lablab.ai logo
+Codestral Hackathon: 24 Hours Challenge Hackathon Certificate
+Codestral Hackathon: 24 Hours Challenge Hackathon Certificate
+lablab.ailablab.ai
+Issued Jul 2024Issued Jul 2024
+Credential ID clznb603900g2xv4lsr0c4eqpCredential ID clznb603900g2xv4lsr0c4eqp
+Show credential
+Stanford Online logo
+Code in Place Mentor
+Code in Place Mentor
+Stanford OnlineStanford Online
+Issued Jun 2024Issued Jun 2024
+Show credential
+
+Stanford CertificateStanford Certificate
+lablab.ai logo
+Gemini Ultra 1.0 Hackathon Hackathon Certificate
+Gemini Ultra 1.0 Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Jun 2024Issued Jun 2024
+Credential ID cly4dt5240029btt6qe2rn1quCredential ID cly4dt5240029btt6qe2rn1qu
+Show credential
+CS50 logo
+CS50x Puzzle Day 2024
+CS50x Puzzle Day 2024
+CS50CS50
+Issued Apr 2024Issued Apr 2024
+Credential ID 1affc415-cdfa-460c-a5cd-131d04e94f3fCredential ID 1affc415-cdfa-460c-a5cd-131d04e94f3f
+Show credential
+
+CS50x Puzzle Day 2024CS50x Puzzle Day 2024
+CS50 Certificates
+Awarded from Cambridge, Massachusetts.CS50 Certificates Awarded from Cambridge, Massachusetts.
+iCodeGuru logo
+WordSprint developers Hackathon
+WordSprint developers Hackathon
+iCodeGuruiCodeGuru
+Issued Apr 2024Issued Apr 2024
+
+WordSprint Developers Hackathon 2.0 Certificate.pdfWordSprint Developers Hackathon 2.0 Certificate.pdf
+lablab.ai logo
+LEAP 2024 Hackathon Hackathon Certificate
+LEAP 2024 Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Feb 2024Issued Feb 2024
+Credential ID clu2k84db001h135ujo010tnnCredential ID clu2k84db001h135ujo010tnn
+Show credential
+lablab.ai logo
+NextGen GPT AI Hackathon Hackathon Certificate
+NextGen GPT AI Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Jan 2024Issued Jan 2024
+Credential ID clsannlix0014gr5vjlttzfboCredential ID clsannlix0014gr5vjlttzfbo
+Show credential
+LeetCode logo
+100 Active Days badge 2023
+100 Active Days badge 2023
+LeetCodeLeetCode
+Issued Dec 2023Issued Dec 2023
+Show credential
+
+LeetCode 100 Active Days Badge HolderLeetCode 100 Active Days Badge Holder
+As a proud holder of the LeetCode 100 Active Days Badge, I have demonstrated exceptional coding skills and dedication to continuous learning. This achievement showcases my dedication to staying ahead in the competitive tech industry and my commitment to improving my coding skills.As a proud holder of the LeetCode 100 Active Days Badge, I have demonstrated exceptional coding skills and dedication to continuous learning. This achievement showcases my dedication to staying ahead in the competitive tech industry and my commitment to improving my coding skills.
+The Blood Heroes Pakistan logo
+Member of the year 
+Member of the year 
+The Blood Heroes PakistanThe Blood Heroes Pakistan
+Issued Dec 2023Issued Dec 2023
+
+IMG-20240103-WA0013(1).jpgIMG-20240103-WA0013(1).jpg
+lablab.ai logo
+TruEra Challenge: Build LLM Applications Hackathon Certificate
+TruEra Challenge: Build LLM Applications Hackathon Certificate
+lablab.ailablab.ai
+Issued Nov 2023Issued Nov 2023
+Credential ID clqp8bdrp002x24qmmwia3v7vCredential ID clqp8bdrp002x24qmmwia3v7v
+Show credential
+lablab.ai logo
+Yi 200k context window LLMs Hackathon Hackathon Certificate
+Yi 200k context window LLMs Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Nov 2023Issued Nov 2023
+Credential ID clqcccgnp0002v2upsynbwzpmCredential ID clqcccgnp0002v2upsynbwzpm
+Show credential
+lablab.ai logo
+Fine-Tuning 24-hours Challenge Hackathon Certificate
+Fine-Tuning 24-hours Challenge Hackathon Certificate
+lablab.ailablab.ai
+Issued Sep 2023Issued Sep 2023
+Credential ID cloech2ig00317z0rwl5sxlp2Credential ID cloech2ig00317z0rwl5sxlp2
+Show credential
+lablab.ai logo
+Llama 2 Hackathon with Clarifai Hackathon Certificate
+Llama 2 Hackathon with Clarifai Hackathon Certificate
+lablab.ailablab.ai
+Issued Aug 2023Issued Aug 2023
+Credential ID clm8wl5jw01xqag14tk7emp23Credential ID clm8wl5jw01xqag14tk7emp23
+Show credential
+lablab.ai logo
+SeamlessM4T 24-hours Hackathon Hackathon Certificate
+SeamlessM4T 24-hours Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Aug 2023Issued Aug 2023
+Credential ID cln3dh6dv000yaj1dssfdqwxkCredential ID cln3dh6dv000yaj1dssfdqwxk
+Show credential
+lablab.ai logo
+3D AI Models Hackathon Hackathon Certificate
+3D AI Models Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Jul 2023Issued Jul 2023
+Credential ID cllnwumnw0009ci14i5b3mhmfCredential ID cllnwumnw0009ci14i5b3mhmf
+Show credential
+Skills: Interpersonal Relationships · Intercultural communication and global perspective · Business Planning · Team Leadership
+Skills: Interpersonal Relationships · Intercultural communication and global perspective · Business Planning · Team Leadership
+lablab.ai logo
+WebGPU Hackathon Hackathon Certificate
+WebGPU Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Jul 2023Issued Jul 2023
+Credential ID cllffmg2c00lmk50hbyopnxxaCredential ID cllffmg2c00lmk50hbyopnxxa
+Show credential
+lablab.ai logo
+WebGPU Hackathon Hackathon Certificate
+WebGPU Hackathon Hackathon Certificate
+lablab.ailablab.ai
+Issued Jul 2023Issued Jul 2023
+Credential ID cllff9i2600ipk50hhm6xwqcfCredential ID cllff9i2600ipk50hhm6xwqcf
+Show credential
+Skills: Team Management · Interpersonal Relationships · Intercultural communication and global perspective · Team Leadership
+Skills: Team Management · Interpersonal Relationships · Intercultural communication and global perspective · Team Leadership
+Hackmakers logo
+World innovations day hackathon 
+World innovations day hackathon 
+HackmakersHackmakers
+Issued May 2023Issued May 2023
+Credential ID 646c4b23d83dde53040d32c9Credential ID 646c4b23d83dde53040d32c9
+Show credential
+Skills: Communication
+
+
+
+
+
+Projects
+Plant Classification by Leaf Using YOLOv8
+Plant Classification by Leaf Using YOLOv8
+Oct 2024 - Oct 2024Oct 2024 - Oct 2024
+I recently applied the YOLOv8 model for a plant leaf classification project, leveraging its state-of-the-art object detection capabilities. This approach enabled highly accurate classification of plant species by analyzing leaf characteristics. The results were promising and demonstrated the power of advanced machine learning models in agricultural and environmental applications. Excited to explore more opportunities in AI-driven solutions for sustainable development!
+I recently applied the YOLOv8 model for a plant leaf classification project, leveraging its state-of-the-art object detection capabilities. This approach enabled highly accurate classification of plant species by analyzing leaf characteristics. The results were promising and demonstrated the power of advanced machine learning models in agricultural and environmental applications. Excited to explore more opportunities in AI-driven solutions for sustainable development!
+mudassirfayaz/PlantLeaf-classification-using-YOLOv8mudassirfayaz/PlantLeaf-classification-using-YOLOv8
+The github repo where I uploaded the frontend along the model which I trained using yolov8 algorithm.The github repo where I uploaded the frontend along the model which I trained using yolov8 algorithm.
+
+Google ColabGoogle Colab
+Model training process for the classification mode on custom dataset which I obtained from the robosuite.comModel training process for the classification mode on custom dataset which I obtained from the robosuite.com
+AI-SteerEDU
+AI-SteerEDU
+Sep 2023 - Sep 2023Sep 2023 - Sep 2023
+AI-SteerEDU, which aims to revolutionize the world of online platforms by collecting feedback from individuals and providing personalized recommendations for online learning coaching platforms.
+AI-SteerEDU, which aims to revolutionize the world of online platforms by collecting feedback from individuals and providing personalized recommendations for online learning coaching platforms.
+
+AI-SteerEDUAI-SteerEDU
+Other contributorsOther contributors
+
+
+
+5
+Multilingual Meeting Enhancer
+Multilingual Meeting Enhancer
+Sep 2023 - Sep 2023Sep 2023 - Sep 2023
+In a rapidly globalizing world, effective communication across languages is paramount. Our ambitious project aims to break down these language barriers by creating a sophisticated real-time speech-to-speech translation application. By leveraging the power of SeamlessM4T, a state-of-the-art machine translation API, we intend to empower users worldwide to engage in seamless conversations in their native languages. This application will offer a user-friendly interface, enabling users to speak or type their messages, which will then be swiftly translated into their chosen target languages.
+In a rapidly globalizing world, effective communication across languages is paramount. Our ambitious project aims to break down these language barriers by creating a sophisticated real-time speech-to-speech translation application. By leveraging the power of SeamlessM4T, a state-of-the-art machine translation API, we intend to empower users worldwide to engage in seamless conversations in their native languages. This application will offer a user-friendly interface, enabling users to speak or type their messages, which will then be swiftly translated into their chosen target languages.
+
+Multilingual Meeting EnhancerMultilingual Meeting Enhancer
+Other contributorsOther contributors
+
+Nutrition Guru
+Nutrition Guru
+Sep 2023 - Sep 2023Sep 2023 - Sep 2023
+A normal person cannot know about the health effects of a food/beverage by just looking at the nutrition information written on the product. It needs knowledge about nutrition insights. So this is the very big problem being faced by today’s generation. Most people are using packed food without knowing its effects on their health. Actually, the health effects of these products are written on the product, but in a complex way. Every packed food or beverage contains its ingredients and nutrition information. The solution to this problem is to create an application in which the user will input the nutrition label, and the output of the application will be the effect of that product on our health.
+A normal person cannot know about the health effects of a food/beverage by just looking at the nutrition information written on the product. It needs knowledge about nutrition insights. So this is the very big problem being faced by today’s generation. Most people are using packed food without knowing its effects on their health. Actually, the health effects of these products are written on the product, but in a complex way. Every packed food or beverage contains its ingredients and nutrition information. The solution to this problem is to create an application in which the user will input the nutrition label, and the output of the application will be the effect of that product on our health.
+Skills: Clarifai · GPT-3.5 · Fine Tuning · backend · Open AI LLM,
+Skills: Clarifai · GPT-3.5 · Fine Tuning · backend · Open AI LLM,
+
+Nutrition GuruNutrition Guru
+Other contributorsOther contributors
+
+
+
+chatbot feature on the Omdena website
+chatbot feature on the Omdena website
+Jul 2023 - Sep 2023Jul 2023 - Sep 2023
+The goal of our project was to develop and implement a chatbot feature on the Omdena website, enhancing user support and engagement. Through the use of technologies such as LucidChart, Google Sheets, Python (RASA 3.x), Streamlit, Hugging Face, Github, Open AI LLM, and FAISS, we successfully trained the chatbot to provide accurate and relevant information, improving the overall user experience. By establishing the chatbot as a valuable tool, we contributed to the growth and success of Omdena's initiatives.
+The goal of our project was to develop and implement a chatbot feature on the Omdena website, enhancing user support and engagement. Through the use of technologies such as LucidChart, Google Sheets, Python (RASA 3.x), Streamlit, Hugging Face, Github, Open AI LLM, and FAISS, we successfully trained the chatbot to provide accurate and relevant information, improving the overall user experience. By establishing the chatbot as a valuable tool, we contributed to the growth and success of Omdena's initiatives.
+Skills: Teamwork · Long-term Care · streamlet · Communication · Rasa Platform · Open AI LLM,
+Skills: Teamwork · Long-term Care · streamlet · Communication · Rasa Platform · Open AI LLM,
+
+live chatbotlive chatbot
+
+codecode
+Other contributorsOther contributors
+
+3D Meditation
+3D Meditation
+Aug 2023 - Aug 2023Aug 2023 - Aug 2023
+Embark on a transformative journey with 3D Meditation, an innovative project that revolutionizes the way we experience mindfulness. Developed by our skilled team, this immersive and awe-inspiring meditation platform takes users from a flat screen to a dynamic 3D universe, providing a profound and impactful meditation experience. Winner of the #3DAIModelsHackathon, 3D Meditation combines expertise in 3D modeling, VR development, UX design, and mindfulness practices to create a truly transformative and engaging meditation experience.
+Embark on a transformative journey with 3D Meditation, an innovative project that revolutionizes the way we experience mindfulness. Developed by our skilled team, this immersive and awe-inspiring meditation platform takes users from a flat screen to a dynamic 3D universe, providing a profound and impactful meditation experience. Winner of the #3DAIModelsHackathon, 3D Meditation combines expertise in 3D modeling, VR development, UX design, and mindfulness practices to create a truly transformative and engaging meditation experience.
+Skills: Teamwork · 3d model · Project Management
+Skills: Teamwork · 3d model · Project Management
+
+3D Meditation3D Meditation
+Other contributorsOther contributors
+
+
+
+5
+Data Visualization App using WebGPU
+Data Visualization App using WebGPU
+Aug 2023 - Aug 2023Aug 2023 - Aug 2023
+SpectraCreate emerges as a revolutionary 3D modeling tool that transcends the limitations of traditional software. Powered by WebGPU, it offers a browser-based platform that seamlessly merges accessibility, real-time collaboration, and cutting-edge performance. Designed to democratize 3D modeling, SpectraCreate eliminates the complexities of software installations and compatibility constraints.
+SpectraCreate emerges as a revolutionary 3D modeling tool that transcends the limitations of traditional software. Powered by WebGPU, it offers a browser-based platform that seamlessly merges accessibility, real-time collaboration, and cutting-edge performance. Designed to democratize 3D modeling, SpectraCreate eliminates the complexities of software installations and compatibility constraints.
+Skills: Team Management · Leadership and Team Management · Hackathon · Team Leadership · webgpu
+Skills: Team Management · Leadership and Team Management · Hackathon · Team Leadership · webgpu
+
+VisualProVisualPro
+Other contributorsOther contributors
+
+
+
+5
+Green Software Development
+Green Software Development
+Jun 2023 - Jun 2023Jun 2023 - Jun 2023
+The Green Software Development Hackathon on TechGig.com, organized by Microsoft Pvt. India! Participating in this hackathon was an incredible experience that allowed me to showcase my skills and passion for sustainable software development.
+The Green Software Development Hackathon on TechGig.com, organized by Microsoft Pvt. India! Participating in this hackathon was an incredible experience that allowed me to showcase my skills and passion for sustainable software development.
+Skills: Flask · Adaptation and problem solving · Front-End Development · Microsoft Azure
+Skills: Flask · Adaptation and problem solving · Front-End Development · Microsoft Azure
+
+codecode
+Other contributorsOther contributors
+
+
+
+Video Summerization
+Video Summerization
+Jun 2023 - Jun 2023Jun 2023 - Jun 2023
+We Developed an AI-powered web app for video summarization, with a focus on improving educational accessibility.
+We Developed an AI-powered web app for video summarization, with a focus on improving educational accessibility.
+Skills: Python (Programming Language) · pytube · Management
+Skills: Python (Programming Language) · pytube · Management
+
+Code
+
+
+
+
+Volunteering
+Stanford University: Code In Place  logo
+Section Leader Mentor
+Section Leader Mentor
+Stanford University: Code In Place Stanford University: Code In Place 
+Apr 2024 - Jul 2024 · 4 mosApr 2024 - Jul 2024 · 4 mos
+EducationEducation
+As a Section Leader Mentor in the Stanford CodeInPlace program, I teach students various tools of Python, with a particular focus on the Karel robot, to build their logical thinking and programming skills. I work with a diverse group of learners from around the globe, regardless of their age, gender, or background. Through personalized one-on-one sessions, I help students grasp different techniques and strategies to strengthen their understanding and application of coding concepts taught in the CS106A course. My aim is to provide accessible, high-quality education that empowers everyone to excel in computer science.
+As a Section Leader Mentor in the Stanford CodeInPlace program, I teach students various tools of Python, with a particular focus on the Karel robot, to build their logical thinking and programming skills. I work with a diverse group of learners from around the globe, regardless of their age, gender, or background. Through personalized one-on-one sessions, I help students grasp different techniques and strategies to strengthen their understanding and application of coding concepts taught in the CS106A course. My aim is to provide accessible, high-quality education that empowers everyone to excel in computer science.
+iCodeGuru logo
+Trainer and Moderator
+Trainer and Moderator
+iCodeGuruiCodeGuru
+Aug 2023 - Present · 2 yrs 2 mosAug 2023 - Present · 2 yrs 2 mos
+EducationEducation
+As a dedicated trainer at the iCodeGuru platform, I specialize in teaching various coding courses, including "Python for Absolute Beginners" and "LeetCode DSA Problem Solving." My role involves guiding and mentoring privileged students to kickstart their careers in coding, fostering their ability to think critically and creatively. Through comprehensive instruction and hands-on problem-solving exercises, I help students develop a solid foundation in programming and data structures, empowering them to tackle real-world challenges with confidence. My mission is to inspire and equip the next generation of coders to excel in the tech industry.
+As a dedicated trainer at the iCodeGuru platform, I specialize in teaching various coding courses, including "Python for Absolute Beginners" and "LeetCode DSA Problem Solving." My role involves guiding and mentoring privileged students to kickstart their careers in coding, fostering their ability to think critically and creatively. Through comprehensive instruction and hands-on problem-solving exercises, I help students develop a solid foundation in programming and data structures, empowering them to tackle real-world challenges with confidence. My mission is to inspire and equip the next generation of coders to excel in the tech industry.
+The Blood Heroes Pakistan logo
+Head of Finance
+Head of Finance
+The Blood Heroes CampaignThe Blood Heroes Campaign
+Sep 2023 - Present · 2 yrs 1 moSep 2023 - Present · 2 yrs 1 mo
+TBH is a student-based nationwide blood society whose main goal is voluntarily providing blood to the needy, promoting voluntary blood donations, and spreading awareness about blood-related issues.
+TBH is a student-based nationwide blood society whose main goal is voluntarily providing blood to the needy, promoting voluntary blood donations, and spreading awareness about blood-related issues.
+The Blood Heroes Pakistan logo
+Tehsil Head
+Tehsil Head
+The Blood Heroes CampaignThe Blood Heroes Campaign
+Jun 2022 - Sep 2023 · 1 yr 4 mosJun 2022 - Sep 2023 · 1 yr 4 mos
+HealthHealth
+TBH is a student-based nationwide blood society whose main goal is voluntarily providing blood to the needy, promoting voluntary blood donations, and spreading awareness about blood-related issues.
+
+
+
+
+
+Skills
+
+All
+Industry Knowledge
+Tools & Technologies
+Interpersonal Skills
+Other Skills
+Agents
+Agents
+Company logo
+LeadWithAIAgents Hackathon 2025: Participant CertificateLeadWithAIAgents Hackathon 2025: Participant Certificate
+Multiple Agents
+Multiple Agents
+Company logo
+LeadWithAIAgents Hackathon 2025: Participant CertificateLeadWithAIAgents Hackathon 2025: Participant Certificate
+Large Language Models (LLM)
+Large Language Models (LLM)
+Company logo
+Machine Learning Engineer at AsasTechMachine Learning Engineer at AsasTech
+Large Language Model Operations (LLMOps)
+Large Language Model Operations (LLMOps)
+Company logo
+Machine Learning Engineer at AsasTechMachine Learning Engineer at AsasTech
+Retrieval-Augmented Generation (RAG)
+Retrieval-Augmented Generation (RAG)
+Company logo
+Machine Learning Engineer at AsasTechMachine Learning Engineer at AsasTech
+Higher Education Teaching
+Higher Education Teaching
+Company logo
+Jr. Lecturer at Khushal Khan Khattak University Karak Jr. Lecturer at Khushal Khan Khattak University Karak 
+Machine Learning
+Machine Learning
+Mentorship
+Mentorship
+Natural Language Processing (NLP)
+Natural Language Processing (NLP)
+Company logo
+Machine Learning Engineer at AsasTechMachine Learning Engineer at AsasTech
+backend
+backend
+Nutrition GuruNutrition Guru
+GPT-3.5
+GPT-3.5
+Nutrition GuruNutrition Guru
+Fine Tuning
+Fine Tuning
+Nutrition GuruNutrition Guru
+Clarifai
+Clarifai
+Nutrition GuruNutrition Guru
+Hackathon
+Hackathon
+Data Visualization App using WebGPUData Visualization App using WebGPU
+Long-term Care
+Long-term Care
+chatbot feature on the Omdena websitechatbot feature on the Omdena website
+Rasa Platform
+Rasa Platform
+chatbot feature on the Omdena websitechatbot feature on the Omdena website
+streamlet
+streamlet
+chatbot feature on the Omdena websitechatbot feature on the Omdena website
+Open AI LLM,
+Open AI LLM,
+chatbot feature on the Omdena websitechatbot feature on the Omdena website
+Nutrition GuruNutrition Guru
+3d model
+3d model
+3D Meditation3D Meditation
+Teamwork
+Teamwork
+3D Meditation3D Meditation
+chatbot feature on the Omdena websitechatbot feature on the Omdena website
+Project Management
+Project Management
+3D Meditation3D Meditation
+webgpu
+webgpu
+Data Visualization App using WebGPUData Visualization App using WebGPU
+Data Visualization
+Data Visualization
+Flask
+Flask
+Green Software DevelopmentGreen Software Development
+Microsoft Azure
+Microsoft Azure
+Green Software DevelopmentGreen Software Development
+pytube
+pytube
+Video SummerizationVideo Summerization
+Python (Programming Language)
+Python (Programming Language)
+1 endorsement
+1 endorsement
+Video SummerizationVideo Summerization
+Management
+Management
+Video SummerizationVideo Summerization
+Design and Innovative thinking 
+Design and Innovative thinking 
+Company logo
+Junior Web Developer at MobiVoneJunior Web Developer at MobiVone
+Front-End Development
+Front-End Development
+Company logo
+Junior Web Developer at MobiVoneJunior Web Developer at MobiVone
+Green Software DevelopmentGreen Software Development
+Back-End Web Development
+Back-End Web Development
+Company logo
+Junior Web Developer at MobiVoneJunior Web Developer at MobiVone
+Event Planning
+Event Planning
+Khushal khan Khattak University Karak Khushal khan Khattak University Karak 
+Team Leadership
+Team Leadership
+Khushal khan Khattak University Karak Khushal khan Khattak University Karak 
+Company logo
+3D AI Models Hackathon Hackathon Certificate3D AI Models Hackathon Hackathon Certificate
+Company logo
+WebGPU Hackathon Hackathon CertificateWebGPU Hackathon Hackathon Certificate
+Show all 5 details
+Interpersonal Relationships
+Interpersonal Relationships
+Company logo
+3D AI Models Hackathon Hackathon Certificate3D AI Models Hackathon Hackathon Certificate
+Company logo
+WebGPU Hackathon Hackathon CertificateWebGPU Hackathon Hackathon Certificate
+Design Thinking
+Design Thinking
+Team Management
+Team Management
+Company logo
+WebGPU Hackathon Hackathon CertificateWebGPU Hackathon Hackathon Certificate
+Data Visualization App using WebGPUData Visualization App using WebGPU
+Leadership and Team Management
+Leadership and Team Management
+Khushal khan Khattak University Karak Khushal khan Khattak University Karak 
+Data Visualization App using WebGPUData Visualization App using WebGPU
+Business Planning
+Business Planning
+Company logo
+3D AI Models Hackathon Hackathon Certificate3D AI Models Hackathon Hackathon Certificate
+innovative thinking
+innovative thinking
+Intercultural communication and global perspective
+Intercultural communication and global perspective
+Company logo
+3D AI Models Hackathon Hackathon Certificate3D AI Models Hackathon Hackathon Certificate
+Company logo
+WebGPU Hackathon Hackathon CertificateWebGPU Hackathon Hackathon Certificate
+Social awareness and responsibility
+Social awareness and responsibility
+Khushal khan Khattak University Karak Khushal khan Khattak University Karak 
+Communication
+Communication
+Company logo
+Jr. Lecturer at Khushal Khan Khattak University Karak Jr. Lecturer at Khushal Khan Khattak University Karak 
+Khushal khan Khattak University Karak Khushal khan Khattak University Karak 
+Company logo
+World innovations day hackathon World innovations day hackathon 
+Show all 5 details
+Adaptation and problem solving
+Adaptation and problem solving
+Khushal khan Khattak University Karak Khushal khan Khattak University Karak 
+Green Software Development
+
+
+
+Recommendations
+
+ReceivedReceived
+GivenGiven
+Shubhika Pradeep
+Shubhika Pradeep
+Shubhika Pradeep
+· 1stFirst degree connection
+Student | Section Leader @Stanford Code in Place |Student | Section Leader @Stanford Code in Place |
+July 30, 2024, Shubhika worked with Mudassir on the same teamJuly 30, 2024, Shubhika worked with Mudassir on the same team
+All LinkedIn membersShow Shubhika Pradeep recommendation to All LinkedIn members
+
+I had the privilege of teaching alongside Mudassir in Stanford University's Code in Place program. he demonstrated exceptional proficiency in Python and Karel Robot, providing one-on-one guidance to international students. He excelled at simplifying complex concepts and showed outstanding communication skills, patience, and empathy, tailoring his teaching to suit various learning styles.
+His commitment to creating a positive and inclusive learning environment significantly contributed to our students' achievements. 
+His mentorship and technical expertise make him an invaluable asset in any educational or professional context. I highly recommend him for any role or program he seeks to pursue.
+I had the privilege of teaching alongside Mudassir in Stanford University's Code in Place program. he demonstrated exceptional proficiency in Python and Karel Robot, providing one-on-one guidance to international students. He excelled at simplifying complex concepts and showed outstanding communication skills, patience, and empathy, tailoring his teaching to suit various learning styles. His commitment to creating a positive and inclusive learning environment significantly contributed to our students' achievements. His mentorship and technical expertise make him an invaluable asset in any educational or professional context. I highly recommend him for any role or program he seeks to pursue.
+Varun Raste
+Varun Raste
+Varun Raste
+· 1stFirst degree connection
+Data Scientist | Statistician | Data Science Mentor | Machine Learning | Time series | NLP | Python | Gen AI | LLM | RAG | Consulting | SQL | R | Tableau | Power BI | Alteryx Data Scientist | Statistician | Data Science Mentor | Machine Learning | Time series | NLP | Python | Gen AI | LLM | RAG | Consulting | SQL | R | Tableau | Power BI | Alteryx 
+June 8, 2024, Varun and Mudassir studied togetherJune 8, 2024, Varun and Mudassir studied together
+All LinkedIn membersShow Varun Raste recommendation to All LinkedIn members
+
+Mudaasir’s profile is impressive. He has touched upon so many areas in such a short period of time. His understanding of concepts is appreciable. His profile speaks for itself. I am glad to be associated with him during my course on RAG. I wish him all the best & I am sure that he will do wonders ! 
+Mudaasir’s profile is impressive. He has touched upon so many areas in such a short period of time. His understanding of concepts is appreciable. His profile speaks for itself. I am glad to be associated with him during my course on RAG. I wish him all the best & I am sure that he will do wonders ! 
+Samiulla Shaik
+Samiulla Shaik
+Samiulla Shaik
+· 1stFirst degree connection
+AI Engineer | LLMs | Agent Workflows | GenAI | Voice AI | Cloud Automation | Prompt Design | Multimodal Systems | AI Infrastructure | Conversational InterfacesAI Engineer | LLMs | Agent Workflows | GenAI | Voice AI | Cloud Automation | Prompt Design | Multimodal Systems | AI Infrastructure | Conversational Interfaces
+June 30, 2023, Samiulla worked with Mudassir on the same teamJune 30, 2023, Samiulla worked with Mudassir on the same team
+All LinkedIn membersShow Samiulla Shaik recommendation to All LinkedIn members
+
+I highly recommend @mudassir Fayaz as a frontend developer with a strong passion for Vue.js. Their in-depth knowledge of Vue.js and frontend development is truly impressive. @mudassir Fayaz consistently delivers high-quality work, paying attention to even the smallest details. He is a dedicated team member who brings creativity and innovation to every project. It's been a pleasure working with @mudassir Fayaz, and I have no doubt he will continue to excel in his career as a Vue.js and frontend expert.
+
+
+
