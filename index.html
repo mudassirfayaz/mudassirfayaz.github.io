@@ -23,7 +23,54 @@
     <style>
          .feature_item {
       height: 100%; /* or any fixed height you want */
+    }
 
+    /* Theme-adaptive heading colors */
+    :root {
+      --heading-color: #2c3e50;
+      --heading-hover: #34495e;
+      --text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --heading-color: #ecf0f1;
+        --heading-hover: #bdc3c7;
+        --text-shadow: 0 2px 4px rgba(255,255,255,0.1);
+      }
+    }
+
+    .main_title h2,
+    .main_title h1,
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--heading-color) !important;
+      text-shadow: var(--text-shadow);
+      transition: color 0.3s ease;
+    }
+
+    .main_title h2:hover,
+    h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
+      color: var(--heading-hover) !important;
+    }
+
+    /* Enhanced main_title styling */
+    .main_title h2 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 15px;
+      line-height: 50px;
+      text-transform: uppercase;
+      background: linear-gradient(135deg, var(--heading-color), var(--heading-hover));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    @media (max-width: 767px) {
+      .main_title h2 {
+        font-size: 30px;
+        line-height: 34px;
+      }
     }
     </style>
   
